@@ -4,7 +4,7 @@ An implementation of **Asynchronous Advantage Actor-Critic (A3C)** to train an A
 
 ## Demo Video
 Below is a sample run of the trained agent:
-https://github.com/user-attachments/assets/fd43e04a-2b36-4bf8-8092-b5cb3eecc441
+[![Image](https://github.com/user-attachments/assets/fd43e04a-2b36-4bf8-8092-b5cb3eecc441)]
 
 ## Features
 
