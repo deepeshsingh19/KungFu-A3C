@@ -26,6 +26,7 @@ pip install -r requirements.txt
 On macOS:
 ```bash
 brew install swig
+```
 
 ## Project Structure
 
